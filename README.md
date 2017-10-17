@@ -1,6 +1,8 @@
 # react-admin-manage
 a management system using react+antd
 
+[在线演示：https://echovic.github.io/react-admin-manage/build/index](https://echovic.github.io/react-admin-manage/build/index)
+
 ### 依赖模块
 
 - [react@15.5.0](https://facebook.github.io/react/)
